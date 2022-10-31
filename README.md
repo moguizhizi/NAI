@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Data
 
-The datasets tested in our experiments, including PubMed, Flickr, Ogbn-axiv, Ogbn-products are all downloaded from Deep Graph Library ([DGL](https://docs.dgl.ai/api/python/dgl.data.html)).
+The datasets tested in our experiments, including PubMed, Flickr, Ogbn-axiv, Ogbn-products are downloaded from Deep Graph Library ([DGL](https://docs.dgl.ai/api/python/dgl.data.html)) and Open Graph Benchmark ([OGB](https://ogb.stanford.edu/docs/nodeprop/)).
 
 ## Training and inference
 
