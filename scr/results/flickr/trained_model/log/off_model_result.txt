@@ -1,0 +1,7 @@
+Offline distillation results:  
+Layer: 1    Val Accuracy: 0.44756    Test Accuracy: 0.44647
+Layer: 2    Val Accuracy: 0.49883    Test Accuracy: 0.49393
+Layer: 3    Val Accuracy: 0.49547    Test Accuracy: 0.4898
+Layer: 4    Val Accuracy: 0.50224    Test Accuracy: 0.49904
+Layer: 5    Val Accuracy: 0.49252    Test Accuracy: 0.48676
+Layer: 6    Val Accuracy: 0.49704    Test Accuracy: 0.49455

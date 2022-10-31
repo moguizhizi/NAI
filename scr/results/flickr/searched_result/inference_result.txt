@@ -1,0 +1,31 @@
+Batch size: 500.0 
+Layers: 7.0 
+Ori:    
+   Time (ms/node): 2530.6493 + 43.1342   Flops (M/node): 4950.6705 
+Ori time details: 
+   Sample Time (ms/node): 145.4868 + 11.1414
+   Feature Time (ms/node): 2381.8459 + 30.4114 
+   classification Time (ms/node): 3.2966 + 2.3153 
+Ori Flops details: 
+   Feature Flops (M/node): 4942.3220 
+   classification Flops (M/node): 8.3485 
+
+Pro:    
+   Time (ms/node): 238.5956 + 7.6034   Flops (M/node): 349.8722
+Pro time details: 
+   Ainf Time (ms/node): 80.5000 + 8.6606 
+   Sample Time (ms/node): 11.3687 + 0.0961 
+   Feature Time (ms/node): 143.4303 + 9.9544 
+   classification Time (ms/node): 3.2966 + 2.3153 
+Pro Flops details: 
+   Ainf Flops (M/node): 44.9288 
+   Feature Flops (M/node): 296.5949 
+   classification Flops (M/node): 8.3485 
+
+Total: 
+Flops Speed up: 14.150X
+Time Speed up: 10.606X
+Flops Speed up (only feature processing): 16.664X
+Time Speed up (only feature processing): 16.606X
+
+

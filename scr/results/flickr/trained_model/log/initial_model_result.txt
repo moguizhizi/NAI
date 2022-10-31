@@ -1,0 +1,8 @@
+Train initial model
+Layer: 1   Val Accuracy: 0.39217   Test Accuracy: 0.39287
+Layer: 2   Val Accuracy: 0.48655   Test Accuracy: 0.47963
+Layer: 3   Val Accuracy: 0.47669   Test Accuracy: 0.46914
+Layer: 4   Val Accuracy: 0.48248   Test Accuracy: 0.47528
+Layer: 5   Val Accuracy: 0.4948   Test Accuracy: 0.48774
+Layer: 6   Val Accuracy: 0.42578   Test Accuracy: 0.42585
+Layer: 7   Val Accuracy: 0.50506   Test Accuracy: 0.50244

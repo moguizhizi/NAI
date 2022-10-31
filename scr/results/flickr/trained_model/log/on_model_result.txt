@@ -1,0 +1,2 @@
+Online distillation results: 
+Layer: 1    Val Accuracy: 0.45302    Test Accuracy: 0.44996
